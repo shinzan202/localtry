@@ -1,0 +1,5 @@
+E:\Myproject\classin\localtry\forcsharp\bin\Release\net10.0\publish\forcsharp.exe
+E:\Myproject\classin\localtry\forcsharp\bin\Release\net10.0\publish\forcsharp.dll
+E:\Myproject\classin\localtry\forcsharp\bin\Release\net10.0\publish\forcsharp.deps.json
+E:\Myproject\classin\localtry\forcsharp\bin\Release\net10.0\publish\forcsharp.runtimeconfig.json
+E:\Myproject\classin\localtry\forcsharp\bin\Release\net10.0\publish\forcsharp.pdb

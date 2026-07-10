@@ -1,0 +1,15 @@
+E:\Myproject\classin\localtry\forcsharp\bin\Debug\net10.0\forcsharp.exe
+E:\Myproject\classin\localtry\forcsharp\bin\Debug\net10.0\forcsharp.deps.json
+E:\Myproject\classin\localtry\forcsharp\bin\Debug\net10.0\forcsharp.runtimeconfig.json
+E:\Myproject\classin\localtry\forcsharp\bin\Debug\net10.0\forcsharp.dll
+E:\Myproject\classin\localtry\forcsharp\bin\Debug\net10.0\forcsharp.pdb
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.AssemblyInfoInputs.cache
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.AssemblyInfo.cs
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.csproj.CoreCompileInputs.cache
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.sourcelink.json
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.dll
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\refint\forcsharp.dll
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.pdb
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\forcsharp.genruntimeconfig.cache
+E:\Myproject\classin\localtry\forcsharp\obj\Debug\net10.0\ref\forcsharp.dll
